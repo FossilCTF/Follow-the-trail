@@ -1,3 +1,3 @@
 # Follow-the-trail
 
-pastebin.com/[CODE]
+https://pastebin.com/[CODE]
